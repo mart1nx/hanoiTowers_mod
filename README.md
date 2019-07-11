@@ -1,4 +1,4 @@
-# hanoitowers_mod
+# hanoiTowers_mod
 Hanoi Towers Modified (Center peg REQUIRED) PROLOG
 
 
